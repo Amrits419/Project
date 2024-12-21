@@ -1,0 +1,3 @@
+/Users/amritsingh/Downloads/projdumb/CMakeFiles/render.dir
+/Users/amritsingh/Downloads/projdumb/CMakeFiles/edit_cache.dir
+/Users/amritsingh/Downloads/projdumb/CMakeFiles/rebuild_cache.dir
